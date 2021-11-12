@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![mS5sheriff's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo-ri-regen&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
 
 <!--
 **mS5sheriff/mS5sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
